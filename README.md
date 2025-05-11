@@ -5,7 +5,7 @@
 
 # 👋 Welcome to Zenethis
 
-**Zenethis** is a Wisconsin-based software company dedicated to crafting lightweight, browser-native tools that simplify web development. Our mission is to empower developers by providing intuitive solutions that enhance productivity and user experience.
+**Zenethis** is a software company dedicated to crafting lightweight, browser-native tools that simplify web development. Our mission is to empower developers by providing intuitive solutions that enhance productivity and user experience.
 
 ---
 
